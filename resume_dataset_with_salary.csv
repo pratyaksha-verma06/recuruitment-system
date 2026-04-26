@@ -1,0 +1,501 @@
+user_id,education,experience,user_location,user_skill,skills_required,job_title,relevance_score,selected,salary
+1,Master,0,Port Said,SQL;C++;Java;CSS,NLP;Deep Learning;Python,Data Scientist,0.0,0,71178
+2,Bachelor,6,Alexandria,CSS;SQL;PyTorch,Machine Learning;TensorFlow;Deep Learning,Machine Learning Engineer,0.0,0,93902
+3,Bachelor,0,Alexandria,Deep Learning;Machine Learning;C++;SQL;PyTorch;Python,Deep Learning;Python;SQL,Data Scientist,1.0,0,56473
+4,Master,8,Cairo,CSS;Java;NLP;TensorFlow;Machine Learning;JavaScript,JavaScript;C++;Java,Software Developer,0.67,1,107806
+5,Bachelor,7,Port Said,SQL;Java;NLP,CSS;HTML;C++,Software Developer,0.0,0,87842
+6,Bachelor,6,Port Said,JavaScript;TensorFlow;C++,Deep Learning;NLP;TensorFlow,AI Engineer,0.33,0,101465
+7,Bachelor,7,Port Said,SQL;Python;Deep Learning,Deep Learning;Python;TensorFlow,Machine Learning Engineer,0.67,1,98327
+8,PhD,10,Alexandria,NLP;TensorFlow;HTML;C++;Machine Learning;Java,PyTorch;TensorFlow;Machine Learning,AI Engineer,0.67,1,143683
+9,Master,13,Luxor,Deep Learning;SQL;C++;CSS;HTML;Python,Python;SQL;Machine Learning,Data Scientist,0.67,1,132674
+10,Bachelor,13,Luxor,NLP;PyTorch;JavaScript,PyTorch;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,126442
+11,Master,0,Cairo,TensorFlow;Deep Learning;Java;Machine Learning;NLP,NLP;Python;Machine Learning,AI Engineer,0.67,0,81259
+12,PhD,5,Luxor,TensorFlow;Machine Learning;CSS,Deep Learning;Machine Learning;PyTorch,AI Engineer,0.33,0,114120
+13,Bachelor,0,Luxor,HTML;Python;Java;Deep Learning;Machine Learning,Python;Deep Learning;PyTorch,AI Engineer,0.67,0,74387
+14,Bachelor,15,Cairo,C++;TensorFlow;HTML;CSS,Machine Learning;TensorFlow;NLP,AI Engineer,0.33,0,145739
+15,PhD,6,Port Said,TensorFlow;PyTorch;Deep Learning;HTML;CSS;Python,Deep Learning;Python;Machine Learning,AI Engineer,0.67,1,121346
+16,Bachelor,7,Luxor,Python;Java;PyTorch;SQL,Python;Machine Learning;NLP,Data Scientist,0.33,0,98731
+17,Bachelor,8,Giza,CSS;C++;JavaScript;HTML,NLP;PyTorch;Deep Learning,AI Engineer,0.0,0,106894
+18,Bachelor,13,Port Said,NLP;HTML;Python;Java;JavaScript;SQL,Java;C++;JavaScript,Software Developer,0.67,1,123605
+19,Bachelor,14,Alexandria,C++;Machine Learning;HTML;SQL;Java;CSS,Python;NLP;Deep Learning,Data Scientist,0.0,0,129859
+20,PhD,7,Alexandria,HTML;PyTorch;SQL;NLP;Python;Java,Python;TensorFlow;Machine Learning,Machine Learning Engineer,0.33,0,115661
+21,PhD,14,Port Said,PyTorch;CSS;HTML;C++;SQL;TensorFlow,Python;TensorFlow;PyTorch,AI Engineer,0.67,1,158530
+22,Master,1,Cairo,CSS;PyTorch;C++;Python;Java;NLP,Python;TensorFlow;PyTorch,AI Engineer,0.67,0,89213
+23,Master,7,Giza,JavaScript;SQL;PyTorch,NLP;Python;SQL,Data Scientist,0.33,0,106460
+24,Master,10,Port Said,TensorFlow;Deep Learning;SQL;Machine Learning,Machine Learning;Deep Learning;PyTorch,Machine Learning Engineer,0.67,1,120602
+25,Bachelor,2,Cairo,JavaScript;PyTorch;Java;TensorFlow;SQL;Machine Learning,C++;HTML;Java,Software Developer,0.33,0,60424
+26,Master,11,Port Said,HTML;CSS;Machine Learning;TensorFlow,NLP;Machine Learning;Deep Learning,Data Scientist,0.33,0,124078
+27,Bachelor,4,Port Said,Java;CSS;C++,HTML;JavaScript;C++,Software Developer,0.33,0,77025
+28,Master,6,Port Said,Machine Learning;Python;Java;NLP;PyTorch;TensorFlow,Machine Learning;SQL;NLP,Data Scientist,0.67,1,100759
+29,PhD,5,Giza,CSS;Python;Java;JavaScript;C++;Machine Learning,Machine Learning;SQL;Deep Learning,Data Scientist,0.33,0,109494
+30,Bachelor,9,Port Said,Deep Learning;SQL;TensorFlow,Machine Learning;Deep Learning;NLP,Data Scientist,0.33,0,107930
+31,Master,7,Alexandria,NLP;Python;C++;Deep Learning,Machine Learning;Deep Learning;Python,Machine Learning Engineer,0.67,1,111305
+32,Master,3,Giza,HTML;SQL;TensorFlow,Deep Learning;PyTorch;Python,Machine Learning Engineer,0.0,0,88384
+33,Bachelor,6,Giza,Machine Learning;Java;PyTorch;Deep Learning;NLP,Java;Python;HTML,Software Developer,0.33,0,87151
+34,Bachelor,8,Cairo,JavaScript;NLP;Deep Learning,CSS;JavaScript;Java,Software Developer,0.33,0,98891
+35,Bachelor,6,Port Said,PyTorch;NLP;Python,Machine Learning;NLP;Python,AI Engineer,0.67,1,96363
+36,PhD,10,Luxor,TensorFlow;Java;Machine Learning;CSS;JavaScript,Deep Learning;TensorFlow;PyTorch,Machine Learning Engineer,0.33,0,135006
+37,Bachelor,4,Alexandria,TensorFlow;NLP;C++;Machine Learning;PyTorch;CSS,Machine Learning;NLP;Python,Data Scientist,0.67,1,76704
+38,Bachelor,10,Giza,HTML;TensorFlow;SQL;CSS;PyTorch;NLP,PyTorch;Python;Machine Learning,AI Engineer,0.33,0,119213
+39,Bachelor,10,Cairo,TensorFlow;Machine Learning;SQL;JavaScript,Python;PyTorch;Deep Learning,AI Engineer,0.0,0,120130
+40,PhD,2,Giza,TensorFlow;JavaScript;SQL;NLP;HTML;PyTorch,Deep Learning;Python;TensorFlow,AI Engineer,0.33,0,101161
+41,Master,7,Alexandria,Python;CSS;SQL;Java;HTML;TensorFlow,PyTorch;Deep Learning;Machine Learning,Machine Learning Engineer,0.0,0,112890
+42,Master,13,Luxor,C++;HTML;TensorFlow;Machine Learning;SQL;NLP,JavaScript;CSS;C++,Software Developer,0.33,0,125167
+43,Bachelor,2,Port Said,Machine Learning;Deep Learning;TensorFlow;CSS,SQL;NLP;Python,Data Scientist,0.0,0,68089
+44,Bachelor,4,Alexandria,NLP;PyTorch;Deep Learning,TensorFlow;Python;PyTorch,Machine Learning Engineer,0.33,0,85313
+45,Master,12,Luxor,JavaScript;NLP;HTML,Machine Learning;NLP;SQL,Data Scientist,0.33,0,128067
+46,Master,13,Luxor,HTML;SQL;Machine Learning;NLP,Python;TensorFlow;Machine Learning,Machine Learning Engineer,0.33,0,137112
+47,Master,12,Alexandria,C++;JavaScript;CSS;Python;NLP;Machine Learning,Python;Deep Learning;NLP,Data Scientist,0.67,1,127863
+48,Master,5,Cairo,NLP;Deep Learning;SQL;HTML;TensorFlow,CSS;HTML;Python,Software Developer,0.33,0,86761
+49,Bachelor,2,Giza,PyTorch;CSS;Python,C++;Java;JavaScript,Software Developer,0.0,0,69761
+50,Master,7,Alexandria,JavaScript;C++;SQL,NLP;Python;Deep Learning,AI Engineer,0.0,0,112120
+51,Bachelor,8,Port Said,JavaScript;PyTorch;Java;C++,Java;JavaScript;Python,Software Developer,0.67,1,98806
+52,PhD,12,Giza,Java;JavaScript;SQL;PyTorch,Python;JavaScript;Java,Software Developer,0.67,1,130045
+53,Master,1,Port Said,TensorFlow;Deep Learning;Java;CSS;PyTorch;Python,TensorFlow;Python;Machine Learning,Machine Learning Engineer,0.67,0,80482
+54,PhD,14,Alexandria,C++;CSS;Machine Learning;TensorFlow;HTML;SQL,PyTorch;Deep Learning;Machine Learning,Machine Learning Engineer,0.33,0,153537
+55,Master,2,Port Said,SQL;HTML;JavaScript;NLP;Deep Learning;Python,Deep Learning;Machine Learning;TensorFlow,Machine Learning Engineer,0.33,0,82938
+56,Bachelor,8,Port Said,JavaScript;Machine Learning;CSS;Python;SQL,SQL;Deep Learning;NLP,Data Scientist,0.33,0,100270
+57,Bachelor,7,Giza,HTML;Python;Java;Machine Learning;SQL;PyTorch,Machine Learning;TensorFlow;PyTorch,AI Engineer,0.67,1,105925
+58,Bachelor,11,Giza,Deep Learning;HTML;Machine Learning;JavaScript;CSS,Python;Deep Learning;Machine Learning,AI Engineer,0.67,1,127383
+59,Bachelor,5,Alexandria,PyTorch;HTML;Machine Learning;CSS,Java;C++;HTML,Software Developer,0.33,0,79884
+60,Bachelor,5,Port Said,PyTorch;CSS;C++,Java;Python;HTML,Software Developer,0.0,0,79820
+61,Master,4,Giza,Python;JavaScript;Machine Learning,TensorFlow;PyTorch;Machine Learning,Machine Learning Engineer,0.33,0,93489
+62,Bachelor,1,Port Said,Java;PyTorch;NLP;HTML;TensorFlow;Machine Learning,SQL;NLP;Machine Learning,Data Scientist,0.67,0,69261
+63,PhD,2,Alexandria,CSS;NLP;JavaScript,TensorFlow;NLP;PyTorch,AI Engineer,0.33,0,100059
+64,PhD,9,Luxor,Machine Learning;JavaScript;TensorFlow;Python;Java;NLP,PyTorch;Deep Learning;Machine Learning,AI Engineer,0.33,0,138971
+65,Master,5,Alexandria,CSS;Java;C++;Python,TensorFlow;PyTorch;Machine Learning,Machine Learning Engineer,0.0,0,104522
+66,Bachelor,9,Port Said,Java;TensorFlow;SQL;Machine Learning;JavaScript;HTML,NLP;SQL;Machine Learning,Data Scientist,0.67,1,109935
+67,Bachelor,8,Alexandria,Python;C++;Machine Learning,CSS;Java;Python,Software Developer,0.33,0,98033
+68,Master,12,Port Said,HTML;Java;JavaScript;Python;NLP;Deep Learning,JavaScript;HTML;Java,Software Developer,1.0,1,124392
+69,Bachelor,0,Port Said,C++;HTML;CSS,Deep Learning;Machine Learning;PyTorch,Machine Learning Engineer,0.0,0,68531
+70,Bachelor,15,Cairo,Deep Learning;NLP;PyTorch;JavaScript;Java;TensorFlow,Machine Learning;NLP;TensorFlow,AI Engineer,0.67,1,147272
+71,Bachelor,12,Luxor,HTML;Java;Deep Learning,HTML;Java;CSS,Software Developer,0.67,1,117713
+72,Master,0,Luxor,NLP;Python;SQL;CSS;Deep Learning;Machine Learning,TensorFlow;Python;PyTorch,Machine Learning Engineer,0.33,0,78698
+73,Bachelor,4,Port Said,PyTorch;HTML;Java;Python;SQL;Deep Learning,Machine Learning;TensorFlow;Python,AI Engineer,0.33,0,87279
+74,Bachelor,2,Alexandria,HTML;Java;C++,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.0,0,75697
+75,Master,15,Alexandria,CSS;C++;NLP;SQL;TensorFlow;JavaScript,Machine Learning;Deep Learning;SQL,Data Scientist,0.33,0,145111
+76,PhD,8,Cairo,PyTorch;Machine Learning;JavaScript;HTML;C++,PyTorch;TensorFlow;Machine Learning,Machine Learning Engineer,0.67,1,127544
+77,Bachelor,12,Giza,SQL;PyTorch;JavaScript;NLP;TensorFlow,Python;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,129690
+78,Bachelor,12,Giza,HTML;Python;C++;CSS,Java;CSS;Python,Software Developer,0.67,1,112963
+79,Bachelor,14,Cairo,NLP;TensorFlow;C++;Java,Deep Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.33,0,138181
+80,Master,2,Port Said,Deep Learning;TensorFlow;HTML;CSS;Python;Machine Learning,SQL;Machine Learning;Python,Data Scientist,0.67,0,82747
+81,Master,13,Cairo,HTML;C++;Machine Learning,Python;Machine Learning;NLP,Data Scientist,0.33,0,130573
+82,Bachelor,11,Giza,SQL;CSS;NLP;C++,Deep Learning;Python;NLP,AI Engineer,0.33,0,127814
+83,Master,7,Giza,SQL;HTML;Machine Learning;TensorFlow,Python;Java;CSS,Software Developer,0.0,0,97540
+84,PhD,5,Cairo,Deep Learning;JavaScript;Machine Learning;NLP;TensorFlow;SQL,C++;CSS;JavaScript,Software Developer,0.33,0,96550
+85,Bachelor,12,Luxor,JavaScript;Machine Learning;TensorFlow;Python;NLP,Java;JavaScript;Python,Software Developer,0.67,1,110466
+86,PhD,15,Port Said,JavaScript;Deep Learning;SQL;PyTorch,Python;C++;Java,Software Developer,0.0,0,152437
+87,PhD,1,Port Said,Python;JavaScript;Deep Learning;C++;Java;CSS,Python;CSS;C++,Software Developer,1.0,0,75770
+88,Bachelor,11,Luxor,C++;Machine Learning;HTML;TensorFlow;Deep Learning,Deep Learning;Python;NLP,Data Scientist,0.33,0,111066
+89,Master,7,Giza,Java;NLP;Python;Machine Learning;PyTorch,Deep Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.33,0,112262
+90,Bachelor,11,Cairo,HTML;Python;JavaScript;CSS,JavaScript;C++;Java,Software Developer,0.33,0,105869
+91,Master,14,Port Said,Java;C++;Python;JavaScript;Machine Learning;SQL,Python;SQL;Machine Learning,Data Scientist,1.0,1,137086
+92,Bachelor,14,Port Said,JavaScript;C++;NLP;Java;HTML;Machine Learning,Deep Learning;Python;PyTorch,Machine Learning Engineer,0.0,0,133279
+93,Bachelor,14,Giza,Deep Learning;Java;PyTorch;CSS,Java;CSS;HTML,Software Developer,0.67,1,122601
+94,Bachelor,3,Giza,TensorFlow;SQL;JavaScript,Python;Machine Learning;NLP,Data Scientist,0.0,0,71493
+95,PhD,6,Cairo,JavaScript;SQL;TensorFlow;Deep Learning,TensorFlow;Python;Machine Learning,AI Engineer,0.33,0,123661
+96,Master,4,Alexandria,C++;Java;Python;PyTorch;JavaScript,C++;JavaScript;HTML,Software Developer,0.67,1,86962
+97,Bachelor,8,Cairo,PyTorch;NLP;CSS;Java,Deep Learning;NLP;SQL,Data Scientist,0.33,0,104512
+98,Bachelor,3,Giza,JavaScript;Python;CSS;Machine Learning,Python;PyTorch;Machine Learning,Machine Learning Engineer,0.67,1,79695
+99,Master,13,Cairo,PyTorch;HTML;Java;JavaScript;Deep Learning;Machine Learning,Python;Deep Learning;Machine Learning,AI Engineer,0.67,1,147923
+100,Master,10,Giza,HTML;CSS;JavaScript;NLP;Java,NLP;SQL;Deep Learning,Data Scientist,0.33,0,121954
+101,Bachelor,7,Giza,HTML;NLP;TensorFlow;Java;Deep Learning,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.33,0,96403
+102,PhD,15,Cairo,Java;PyTorch;NLP,Machine Learning;SQL;NLP,Data Scientist,0.33,0,157270
+103,Bachelor,10,Cairo,Deep Learning;TensorFlow;NLP;Python;Machine Learning;HTML,HTML;Java;C++,Software Developer,0.33,0,103166
+104,Bachelor,15,Alexandria,Deep Learning;CSS;PyTorch,Machine Learning;SQL;Deep Learning,Data Scientist,0.33,0,134579
+105,Master,0,Luxor,Python;C++;Machine Learning;JavaScript;Deep Learning,Java;C++;JavaScript,Software Developer,0.67,0,67491
+106,Bachelor,12,Cairo,PyTorch;TensorFlow;Python;Java,NLP;PyTorch;TensorFlow,AI Engineer,0.67,1,132972
+107,Bachelor,11,Port Said,JavaScript;PyTorch;Java;Python;C++,TensorFlow;Python;PyTorch,AI Engineer,0.67,1,123172
+108,Bachelor,13,Giza,NLP;Machine Learning;SQL;CSS;Java;C++,Python;Deep Learning;TensorFlow,Machine Learning Engineer,0.0,0,133396
+109,Master,15,Luxor,Python;SQL;NLP;PyTorch;CSS,Machine Learning;Deep Learning;TensorFlow,AI Engineer,0.0,0,154396
+110,Master,9,Port Said,Python;HTML;NLP,Deep Learning;NLP;PyTorch,AI Engineer,0.33,0,122766
+111,Bachelor,11,Cairo,PyTorch;Python;NLP;TensorFlow;HTML;CSS,JavaScript;CSS;Python,Software Developer,0.67,1,111849
+112,Master,13,Port Said,NLP;Python;Deep Learning,TensorFlow;NLP;Machine Learning,AI Engineer,0.33,0,145010
+113,Bachelor,3,Alexandria,JavaScript;NLP;CSS;Java;TensorFlow;HTML,Python;HTML;C++,Software Developer,0.33,0,74710
+114,Bachelor,5,Cairo,CSS;PyTorch;SQL,HTML;C++;JavaScript,Software Developer,0.0,0,82735
+115,Bachelor,8,Alexandria,JavaScript;C++;Java;TensorFlow,TensorFlow;PyTorch;Deep Learning,Machine Learning Engineer,0.33,0,103915
+116,PhD,10,Port Said,HTML;Java;PyTorch;JavaScript,HTML;JavaScript;Java,Software Developer,1.0,1,122057
+117,Bachelor,2,Port Said,HTML;Python;TensorFlow;Deep Learning;Machine Learning;JavaScript,NLP;Deep Learning;SQL,Data Scientist,0.33,0,72191
+118,Bachelor,1,Giza,Deep Learning;JavaScript;HTML;CSS,Python;NLP;PyTorch,AI Engineer,0.0,0,76445
+119,Master,10,Cairo,Python;SQL;HTML;JavaScript,Machine Learning;PyTorch;TensorFlow,AI Engineer,0.0,0,128389
+120,Bachelor,10,Luxor,TensorFlow;PyTorch;Deep Learning,Machine Learning;Python;NLP,Data Scientist,0.0,0,108016
+121,Master,9,Port Said,Deep Learning;Java;JavaScript;C++,HTML;CSS;C++,Software Developer,0.33,0,111430
+122,Bachelor,2,Port Said,TensorFlow;Deep Learning;C++;CSS;Java;PyTorch,PyTorch;Deep Learning;Python,Machine Learning Engineer,0.67,0,72006
+123,Bachelor,5,Alexandria,HTML;SQL;TensorFlow;C++;CSS,Machine Learning;Python;NLP,Data Scientist,0.0,0,81461
+124,Master,1,Port Said,JavaScript;NLP;C++;PyTorch,PyTorch;TensorFlow;Deep Learning,AI Engineer,0.33,0,86257
+125,Master,1,Giza,TensorFlow;SQL;HTML;Machine Learning;JavaScript,TensorFlow;Deep Learning;Machine Learning,AI Engineer,0.67,0,80324
+126,PhD,15,Alexandria,TensorFlow;JavaScript;HTML;PyTorch;Machine Learning,PyTorch;TensorFlow;Python,Machine Learning Engineer,0.67,1,162068
+127,Master,4,Port Said,TensorFlow;HTML;Deep Learning,NLP;Python;SQL,Data Scientist,0.0,0,91287
+128,Bachelor,5,Port Said,CSS;C++;NLP;Java;SQL;JavaScript,Deep Learning;Python;Machine Learning,Machine Learning Engineer,0.0,0,90981
+129,Bachelor,11,Alexandria,Java;Deep Learning;SQL;Python;TensorFlow;CSS,C++;Python;Java,Software Developer,0.67,1,106923
+130,Bachelor,15,Alexandria,HTML;JavaScript;Python;Java;TensorFlow;C++,Deep Learning;TensorFlow;NLP,AI Engineer,0.33,0,147811
+131,Bachelor,9,Alexandria,Java;Python;SQL;NLP;HTML,Python;Deep Learning;Machine Learning,Data Scientist,0.33,0,105676
+132,Bachelor,7,Alexandria,NLP;Python;JavaScript;Deep Learning;SQL,Machine Learning;Python;Deep Learning,Machine Learning Engineer,0.67,1,104738
+133,PhD,2,Luxor,NLP;HTML;Python,Deep Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.0,0,91619
+134,Bachelor,2,Port Said,PyTorch;TensorFlow;Java;Deep Learning,Python;Machine Learning;TensorFlow,AI Engineer,0.33,0,77776
+135,Master,5,Giza,TensorFlow;C++;PyTorch;Java;HTML;Python,C++;Java;Python,Software Developer,1.0,1,94573
+136,Master,10,Port Said,CSS;HTML;Machine Learning;Python;SQL;C++,Java;HTML;JavaScript,Software Developer,0.33,0,117169
+137,Bachelor,11,Giza,PyTorch;HTML;NLP;Deep Learning;C++;SQL,Deep Learning;PyTorch;Python,Machine Learning Engineer,0.67,1,122564
+138,Master,2,Giza,CSS;Machine Learning;Deep Learning;Java,Machine Learning;NLP;SQL,Data Scientist,0.33,0,78275
+139,Bachelor,13,Alexandria,Deep Learning;HTML;Python;PyTorch;NLP;C++,Python;Deep Learning;SQL,Data Scientist,0.67,1,125447
+140,Bachelor,5,Cairo,JavaScript;TensorFlow;HTML;Python,Python;Deep Learning;Machine Learning,AI Engineer,0.33,0,93107
+141,Bachelor,1,Luxor,TensorFlow;HTML;Deep Learning;JavaScript,Python;Machine Learning;Deep Learning,Machine Learning Engineer,0.33,0,74101
+142,Bachelor,10,Port Said,Java;Python;C++;HTML,PyTorch;Python;Machine Learning,Machine Learning Engineer,0.33,0,110247
+143,Master,14,Alexandria,PyTorch;HTML;SQL;Java;C++,Deep Learning;SQL;Machine Learning,Data Scientist,0.33,0,139135
+144,Bachelor,2,Port Said,PyTorch;Java;CSS;JavaScript;Machine Learning,C++;Python;HTML,Software Developer,0.0,0,66879
+145,Bachelor,3,Alexandria,SQL;HTML;Python;Deep Learning,CSS;JavaScript;C++,Software Developer,0.0,0,68094
+146,Master,2,Cairo,NLP;HTML;CSS;PyTorch;JavaScript,SQL;Machine Learning;Deep Learning,Data Scientist,0.0,0,81944
+147,Bachelor,14,Luxor,C++;CSS;JavaScript;PyTorch;TensorFlow,PyTorch;Python;TensorFlow,Machine Learning Engineer,0.67,1,131437
+148,Bachelor,9,Alexandria,Deep Learning;SQL;PyTorch;CSS,Java;HTML;C++,Software Developer,0.0,0,99944
+149,Master,8,Alexandria,JavaScript;CSS;Java;TensorFlow;C++,Deep Learning;TensorFlow;Machine Learning,AI Engineer,0.33,0,121593
+150,Master,1,Cairo,Python;TensorFlow;JavaScript,Python;C++;CSS,Software Developer,0.33,0,73198
+151,Master,0,Giza,TensorFlow;Machine Learning;HTML;SQL;NLP,CSS;Java;JavaScript,Software Developer,0.0,0,62112
+152,Bachelor,13,Giza,SQL;Deep Learning;JavaScript;C++;TensorFlow;NLP,Python;HTML;CSS,Software Developer,0.0,0,122557
+153,Bachelor,11,Luxor,Deep Learning;SQL;HTML,Machine Learning;Deep Learning;Python,Data Scientist,0.33,0,117848
+154,Bachelor,1,Port Said,JavaScript;NLP;SQL;C++;Deep Learning;Machine Learning,C++;Python;CSS,Software Developer,0.33,0,63486
+155,PhD,14,Giza,HTML;Python;Java;NLP;PyTorch,Deep Learning;TensorFlow;Machine Learning,AI Engineer,0.0,0,157047
+156,Bachelor,9,Giza,Machine Learning;CSS;Python;Java;NLP;TensorFlow,Python;HTML;CSS,Software Developer,0.67,1,97287
+157,Bachelor,12,Cairo,Deep Learning;CSS;Machine Learning;Java,PyTorch;TensorFlow;Deep Learning,Machine Learning Engineer,0.33,0,125902
+158,Bachelor,3,Alexandria,NLP;Deep Learning;TensorFlow,C++;Python;CSS,Software Developer,0.0,0,74715
+159,Bachelor,1,Cairo,PyTorch;Deep Learning;HTML;CSS,Machine Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.33,0,70746
+160,PhD,10,Alexandria,JavaScript;Machine Learning;PyTorch;Deep Learning;HTML;CSS,CSS;Java;HTML,Software Developer,0.67,1,123667
+161,Bachelor,3,Giza,PyTorch;TensorFlow;Python;HTML;Machine Learning,PyTorch;Python;NLP,AI Engineer,0.67,1,81735
+162,Bachelor,12,Alexandria,Python;JavaScript;Java;SQL,Deep Learning;Machine Learning;SQL,Data Scientist,0.33,0,119159
+163,Bachelor,6,Giza,PyTorch;Python;C++;CSS;SQL;Machine Learning,Python;CSS;JavaScript,Software Developer,0.67,1,89799
+164,Bachelor,5,Giza,CSS;Deep Learning;Machine Learning;HTML;SQL,Machine Learning;TensorFlow;PyTorch,AI Engineer,0.33,0,93247
+165,Bachelor,9,Port Said,PyTorch;HTML;Deep Learning;TensorFlow,JavaScript;HTML;Python,Software Developer,0.33,0,97972
+166,Bachelor,12,Giza,C++;Machine Learning;Python;TensorFlow;Java,CSS;HTML;Python,Software Developer,0.33,0,112070
+167,Bachelor,8,Luxor,C++;Java;JavaScript;SQL;CSS,NLP;SQL;Machine Learning,Data Scientist,0.33,0,95572
+168,Bachelor,3,Giza,PyTorch;HTML;Java;C++;Python,NLP;PyTorch;TensorFlow,AI Engineer,0.33,0,88230
+169,Master,9,Port Said,TensorFlow;Python;Java;SQL;PyTorch,NLP;Deep Learning;Python,AI Engineer,0.33,0,120933
+170,PhD,12,Giza,PyTorch;Machine Learning;Python;JavaScript,JavaScript;Python;Java,Software Developer,0.67,1,137596
+171,PhD,10,Port Said,TensorFlow;CSS;PyTorch;HTML;C++;NLP,Deep Learning;Machine Learning;Python,Machine Learning Engineer,0.0,0,136052
+172,Bachelor,14,Port Said,Python;Deep Learning;Machine Learning;SQL,TensorFlow;NLP;PyTorch,AI Engineer,0.0,0,135733
+173,Bachelor,2,Giza,C++;PyTorch;HTML,C++;Java;HTML,Software Developer,0.67,0,68539
+174,Bachelor,14,Port Said,Machine Learning;JavaScript;TensorFlow;Python;PyTorch,Python;C++;Java,Software Developer,0.33,0,127047
+175,Master,14,Port Said,NLP;TensorFlow;CSS;Machine Learning,Machine Learning;NLP;Deep Learning,Data Scientist,0.67,1,139015
+176,Bachelor,4,Giza,HTML;JavaScript;Deep Learning;NLP,PyTorch;Machine Learning;Python,Machine Learning Engineer,0.0,0,89483
+177,Master,2,Luxor,CSS;Deep Learning;Java;JavaScript;Python;NLP,TensorFlow;PyTorch;Deep Learning,AI Engineer,0.33,0,91162
+178,Bachelor,14,Cairo,PyTorch;JavaScript;HTML;Java,Python;TensorFlow;PyTorch,Machine Learning Engineer,0.33,0,138119
+179,Bachelor,14,Luxor,CSS;HTML;Machine Learning,Deep Learning;Machine Learning;Python,Data Scientist,0.33,0,131627
+180,Master,2,Cairo,Deep Learning;Java;CSS;Python;TensorFlow;SQL,Machine Learning;Deep Learning;Python,Data Scientist,0.67,0,76726
+181,Master,13,Port Said,HTML;NLP;TensorFlow;Java;C++;Deep Learning,Java;C++;CSS,Software Developer,0.67,1,133447
+182,Bachelor,7,Cairo,Machine Learning;HTML;CSS,PyTorch;TensorFlow;Python,Machine Learning Engineer,0.0,0,102676
+183,Bachelor,11,Alexandria,SQL;Java;Python;NLP;JavaScript,Deep Learning;Python;TensorFlow,AI Engineer,0.33,0,120838
+184,Bachelor,14,Luxor,SQL;Python;NLP,Machine Learning;PyTorch;Python,Machine Learning Engineer,0.33,0,139559
+185,Bachelor,9,Alexandria,JavaScript;PyTorch;Deep Learning;SQL;Machine Learning,PyTorch;TensorFlow;Deep Learning,AI Engineer,0.67,1,110221
+186,Bachelor,8,Cairo,TensorFlow;PyTorch;NLP;CSS,Python;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,104340
+187,Master,10,Giza,C++;Machine Learning;NLP;PyTorch;HTML;Java,Machine Learning;Deep Learning;NLP,AI Engineer,0.67,1,133881
+188,PhD,13,Giza,NLP;SQL;Machine Learning;TensorFlow,Python;Java;CSS,Software Developer,0.0,0,138485
+189,Master,2,Luxor,Python;Machine Learning;NLP;PyTorch,SQL;NLP;Deep Learning,Data Scientist,0.33,0,82415
+190,Bachelor,10,Port Said,SQL;PyTorch;Java,Machine Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.33,0,119604
+191,PhD,10,Port Said,HTML;CSS;Deep Learning;Machine Learning;TensorFlow;C++,TensorFlow;Python;Deep Learning,Machine Learning Engineer,0.67,1,136075
+192,Bachelor,10,Alexandria,Deep Learning;NLP;Python;SQL;C++,Machine Learning;Deep Learning;SQL,Data Scientist,0.67,1,113732
+193,Bachelor,10,Alexandria,JavaScript;SQL;HTML;CSS;Deep Learning;C++,TensorFlow;PyTorch;Python,Machine Learning Engineer,0.0,0,119695
+194,Master,11,Alexandria,PyTorch;CSS;HTML;C++,NLP;Python;Deep Learning,Data Scientist,0.0,0,124137
+195,PhD,1,Cairo,C++;TensorFlow;SQL;Java;PyTorch;Python,TensorFlow;NLP;Machine Learning,AI Engineer,0.33,0,97799
+196,Bachelor,15,Giza,Python;CSS;TensorFlow,Python;PyTorch;Deep Learning,Machine Learning Engineer,0.33,0,140003
+197,Master,9,Cairo,C++;Java;TensorFlow;CSS;PyTorch;JavaScript,TensorFlow;PyTorch;Machine Learning,AI Engineer,0.67,1,127639
+198,Master,8,Giza,Deep Learning;NLP;HTML,PyTorch;Deep Learning;Machine Learning,AI Engineer,0.33,0,123534
+199,Master,2,Cairo,NLP;PyTorch;TensorFlow,Python;PyTorch;Deep Learning,Machine Learning Engineer,0.33,0,86731
+200,Bachelor,15,Giza,JavaScript;Java;CSS;Python;SQL,PyTorch;TensorFlow;NLP,AI Engineer,0.0,0,145709
+201,Bachelor,2,Port Said,C++;Deep Learning;Python,TensorFlow;Deep Learning;NLP,AI Engineer,0.33,0,78530
+202,PhD,9,Alexandria,JavaScript;NLP;CSS;Deep Learning,Machine Learning;Python;Deep Learning,Machine Learning Engineer,0.33,0,134305
+203,Master,11,Cairo,NLP;SQL;Java,JavaScript;Python;CSS,Software Developer,0.0,0,123066
+204,PhD,10,Cairo,HTML;PyTorch;SQL;Deep Learning;NLP,Machine Learning;TensorFlow;Python,Machine Learning Engineer,0.0,0,130152
+205,Master,9,Alexandria,Java;Machine Learning;C++,Machine Learning;TensorFlow;PyTorch,Machine Learning Engineer,0.33,0,118688
+206,Bachelor,2,Cairo,HTML;Deep Learning;Machine Learning;Java;C++,SQL;Deep Learning;NLP,Data Scientist,0.33,0,65076
+207,Bachelor,13,Cairo,Java;Deep Learning;CSS,NLP;Machine Learning;SQL,Data Scientist,0.0,0,122715
+208,Bachelor,13,Giza,PyTorch;CSS;SQL,PyTorch;NLP;Deep Learning,AI Engineer,0.33,0,137372
+209,Bachelor,9,Port Said,C++;Java;PyTorch;NLP;Machine Learning;SQL,CSS;Java;HTML,Software Developer,0.33,0,99783
+210,Bachelor,7,Giza,HTML;Java;C++;Machine Learning,Deep Learning;Machine Learning;NLP,Data Scientist,0.33,0,98093
+211,Bachelor,10,Giza,NLP;TensorFlow;JavaScript;C++;Machine Learning,JavaScript;C++;CSS,Software Developer,0.67,1,101665
+212,Bachelor,12,Port Said,PyTorch;TensorFlow;HTML;SQL;Deep Learning,Deep Learning;TensorFlow;Machine Learning,Machine Learning Engineer,0.67,1,124525
+213,Bachelor,6,Luxor,TensorFlow;CSS;Python;HTML,NLP;Machine Learning;Python,AI Engineer,0.33,0,96546
+214,Master,13,Giza,TensorFlow;Machine Learning;SQL;PyTorch,PyTorch;NLP;TensorFlow,AI Engineer,0.67,1,143173
+215,Bachelor,15,Luxor,CSS;PyTorch;NLP;TensorFlow;Python;JavaScript,Python;JavaScript;Java,Software Developer,0.67,1,133610
+216,Bachelor,7,Port Said,TensorFlow;JavaScript;Python;NLP,CSS;Java;JavaScript,Software Developer,0.33,0,90805
+217,Bachelor,7,Luxor,HTML;Deep Learning;NLP;PyTorch,Machine Learning;Python;NLP,AI Engineer,0.33,0,103175
+218,Bachelor,13,Cairo,PyTorch;C++;Deep Learning,HTML;CSS;C++,Software Developer,0.33,0,119806
+219,Bachelor,11,Giza,HTML;PyTorch;Deep Learning,Machine Learning;Python;NLP,Data Scientist,0.0,0,111052
+220,Bachelor,10,Cairo,PyTorch;SQL;CSS;C++,Machine Learning;TensorFlow;NLP,AI Engineer,0.0,0,119415
+221,PhD,7,Giza,C++;TensorFlow;NLP;JavaScript,NLP;SQL;Deep Learning,Data Scientist,0.33,0,112862
+222,Bachelor,12,Cairo,SQL;Machine Learning;Java;JavaScript,Machine Learning;PyTorch;Deep Learning,AI Engineer,0.33,0,134113
+223,Bachelor,8,Giza,JavaScript;NLP;PyTorch;TensorFlow;Java,HTML;CSS;C++,Software Developer,0.0,0,90402
+224,Master,9,Luxor,TensorFlow;C++;Deep Learning,SQL;Machine Learning;Python,Data Scientist,0.0,0,119172
+225,Bachelor,4,Luxor,NLP;JavaScript;C++;PyTorch;CSS;Java,PyTorch;Machine Learning;Deep Learning,Machine Learning Engineer,0.33,0,87524
+226,Bachelor,9,Alexandria,Deep Learning;HTML;JavaScript;Python,Java;CSS;C++,Software Developer,0.0,0,102006
+227,Bachelor,12,Luxor,NLP;TensorFlow;HTML;PyTorch;JavaScript;SQL,Python;TensorFlow;PyTorch,AI Engineer,0.67,1,126789
+228,Master,7,Port Said,Machine Learning;SQL;CSS,C++;CSS;JavaScript,Software Developer,0.33,0,101099
+229,Bachelor,3,Luxor,Machine Learning;CSS;Deep Learning,Deep Learning;SQL;NLP,Data Scientist,0.33,0,70277
+230,Bachelor,7,Port Said,HTML;Machine Learning;Deep Learning,Deep Learning;Python;NLP,Data Scientist,0.33,0,99514
+231,Bachelor,11,Luxor,C++;JavaScript;PyTorch;SQL;CSS;NLP,NLP;Machine Learning;Deep Learning,Data Scientist,0.33,0,119981
+232,Bachelor,5,Port Said,Machine Learning;JavaScript;PyTorch;CSS;Java,NLP;Python;Machine Learning,AI Engineer,0.33,0,92718
+233,Master,4,Alexandria,C++;Deep Learning;SQL;NLP,Machine Learning;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,98182
+234,Bachelor,14,Cairo,NLP;CSS;Machine Learning,CSS;Python;HTML,Software Developer,0.33,0,122542
+235,Bachelor,2,Giza,Java;CSS;NLP;SQL;JavaScript,NLP;Machine Learning;TensorFlow,AI Engineer,0.33,0,81763
+236,Master,10,Luxor,JavaScript;HTML;Deep Learning;Python,Python;Deep Learning;NLP,Data Scientist,0.67,1,116688
+237,Bachelor,5,Giza,Python;NLP;SQL;C++;Machine Learning;Java,Java;HTML;JavaScript,Software Developer,0.33,0,84700
+238,Bachelor,5,Cairo,TensorFlow;Machine Learning;SQL;NLP;Java;Deep Learning,Python;SQL;Deep Learning,Data Scientist,0.67,1,86740
+239,Bachelor,7,Luxor,Python;PyTorch;Deep Learning;Java;NLP;JavaScript,NLP;Python;Deep Learning,AI Engineer,1.0,1,101250
+240,Bachelor,3,Cairo,Deep Learning;Machine Learning;C++;NLP;JavaScript,Python;TensorFlow;PyTorch,AI Engineer,0.0,0,80696
+241,Master,5,Giza,PyTorch;SQL;C++;NLP;HTML,Python;PyTorch;Deep Learning,AI Engineer,0.33,0,108116
+242,Master,12,Port Said,Deep Learning;C++;SQL;Machine Learning;Java;HTML,Python;Java;HTML,Software Developer,0.67,1,122749
+243,Bachelor,6,Giza,TensorFlow;Python;SQL;HTML;NLP,SQL;Deep Learning;Machine Learning,Data Scientist,0.33,0,92525
+244,Bachelor,0,Port Said,C++;NLP;JavaScript;TensorFlow;Deep Learning,NLP;Python;TensorFlow,AI Engineer,0.67,0,65952
+245,Bachelor,0,Port Said,Python;PyTorch;NLP;CSS,Python;JavaScript;CSS,Software Developer,0.67,0,52805
+246,Bachelor,12,Cairo,Machine Learning;Java;PyTorch;TensorFlow,Deep Learning;TensorFlow;Machine Learning,AI Engineer,0.67,1,130578
+247,Bachelor,2,Port Said,PyTorch;SQL;Python;TensorFlow;Java;CSS,Deep Learning;Python;SQL,Data Scientist,0.67,0,68361
+248,Master,5,Cairo,PyTorch;C++;Python,NLP;Machine Learning;TensorFlow,AI Engineer,0.0,0,106071
+249,Bachelor,4,Port Said,Python;Deep Learning;NLP,JavaScript;Java;HTML,Software Developer,0.0,0,76542
+250,Master,2,Giza,CSS;Deep Learning;Python;HTML;C++;PyTorch,Machine Learning;Python;TensorFlow,AI Engineer,0.33,0,86612
+251,Bachelor,0,Cairo,SQL;Python;HTML,CSS;C++;JavaScript,Software Developer,0.0,0,53296
+252,PhD,1,Luxor,SQL;Deep Learning;PyTorch;NLP;TensorFlow;C++,NLP;Machine Learning;Python,Data Scientist,0.33,0,84781
+253,Bachelor,1,Alexandria,CSS;Python;NLP;Java,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.0,0,67029
+254,Bachelor,14,Cairo,SQL;Machine Learning;JavaScript;TensorFlow;PyTorch,Deep Learning;TensorFlow;Python,Machine Learning Engineer,0.33,0,131593
+255,Master,7,Alexandria,NLP;Python;SQL,Python;Java;HTML,Software Developer,0.33,0,99247
+256,Bachelor,12,Port Said,SQL;CSS;PyTorch,TensorFlow;Python;PyTorch,Machine Learning Engineer,0.33,0,127597
+257,Master,2,Cairo,CSS;NLP;Deep Learning;HTML,NLP;Python;Machine Learning,Data Scientist,0.33,0,75178
+258,Bachelor,12,Cairo,NLP;TensorFlow;C++,Machine Learning;PyTorch;TensorFlow,AI Engineer,0.33,0,125452
+259,PhD,12,Port Said,HTML;Machine Learning;SQL;Java;JavaScript,TensorFlow;Python;Deep Learning,AI Engineer,0.0,0,152053
+260,Bachelor,14,Giza,NLP;Java;CSS;Deep Learning;SQL,Deep Learning;TensorFlow;Machine Learning,Machine Learning Engineer,0.33,0,137970
+261,Master,2,Alexandria,PyTorch;JavaScript;Python;SQL;Deep Learning,Python;Deep Learning;Machine Learning,AI Engineer,0.67,0,91316
+262,Bachelor,1,Port Said,C++;Python;NLP;HTML;SQL,Deep Learning;Python;NLP,Data Scientist,0.67,0,60512
+263,Bachelor,1,Alexandria,SQL;NLP;Deep Learning;Java,Java;Python;JavaScript,Software Developer,0.33,0,63804
+264,Bachelor,14,Alexandria,Deep Learning;Java;Python,Python;Machine Learning;Deep Learning,Machine Learning Engineer,0.67,1,138140
+265,Bachelor,12,Giza,NLP;TensorFlow;PyTorch,Machine Learning;Deep Learning;TensorFlow,AI Engineer,0.33,0,131739
+266,Bachelor,14,Alexandria,JavaScript;PyTorch;TensorFlow,PyTorch;Machine Learning;NLP,AI Engineer,0.33,0,141048
+267,Bachelor,15,Cairo,Machine Learning;NLP;C++,Machine Learning;PyTorch;Deep Learning,Machine Learning Engineer,0.33,0,144810
+268,PhD,0,Giza,HTML;CSS;PyTorch;Deep Learning;TensorFlow,Deep Learning;Machine Learning;Python,Machine Learning Engineer,0.33,0,83993
+269,Bachelor,7,Cairo,Python;HTML;CSS;Deep Learning;SQL,Python;Deep Learning;TensorFlow,AI Engineer,0.67,1,107192
+270,Bachelor,1,Alexandria,Deep Learning;C++;TensorFlow;SQL;PyTorch;NLP,JavaScript;Java;HTML,Software Developer,0.0,0,55260
+271,PhD,4,Luxor,HTML;CSS;Machine Learning;C++,Python;PyTorch;TensorFlow,Machine Learning Engineer,0.0,0,102689
+272,Bachelor,7,Cairo,Python;Deep Learning;JavaScript;SQL;C++;HTML,Machine Learning;Python;TensorFlow,AI Engineer,0.33,0,104885
+273,Bachelor,4,Cairo,Java;Deep Learning;NLP;PyTorch;TensorFlow,HTML;C++;JavaScript,Software Developer,0.0,0,71026
+274,Master,13,Giza,C++;CSS;JavaScript;Deep Learning;SQL,NLP;Machine Learning;TensorFlow,AI Engineer,0.0,0,149219
+275,Bachelor,0,Luxor,JavaScript;Python;C++;Deep Learning;SQL;CSS,Deep Learning;SQL;NLP,Data Scientist,0.67,0,63416
+276,Master,7,Port Said,C++;TensorFlow;Java;Deep Learning;HTML,Machine Learning;SQL;Python,Data Scientist,0.0,0,103466
+277,Master,11,Port Said,PyTorch;Python;TensorFlow,TensorFlow;PyTorch;Python,Machine Learning Engineer,1.0,1,131628
+278,Master,15,Giza,CSS;NLP;Java;HTML;SQL,NLP;Python;TensorFlow,AI Engineer,0.33,0,151480
+279,Bachelor,10,Port Said,Java;Deep Learning;C++,Machine Learning;Python;Deep Learning,Machine Learning Engineer,0.33,0,113156
+280,PhD,2,Port Said,PyTorch;Python;NLP;C++;JavaScript;Java,Python;Machine Learning;NLP,Data Scientist,0.67,0,91623
+281,PhD,13,Luxor,TensorFlow;Machine Learning;PyTorch;SQL;Java,Deep Learning;NLP;Python,Data Scientist,0.0,0,140909
+282,Bachelor,0,Giza,Machine Learning;TensorFlow;JavaScript,Machine Learning;Python;TensorFlow,Machine Learning Engineer,0.67,0,69479
+283,Bachelor,9,Cairo,Java;Machine Learning;NLP;HTML;CSS;Deep Learning,Java;JavaScript;CSS,Software Developer,0.67,1,101043
+284,Bachelor,12,Port Said,HTML;Python;Machine Learning;PyTorch,Deep Learning;Machine Learning;TensorFlow,Machine Learning Engineer,0.33,0,120084
+285,Bachelor,4,Cairo,TensorFlow;Deep Learning;CSS,PyTorch;Machine Learning;Deep Learning,Machine Learning Engineer,0.33,0,88289
+286,Bachelor,12,Luxor,CSS;TensorFlow;HTML;SQL;JavaScript;C++,Deep Learning;Python;Machine Learning,Data Scientist,0.0,0,118659
+287,Bachelor,4,Cairo,C++;PyTorch;SQL;JavaScript;TensorFlow;Python,Python;TensorFlow;PyTorch,Machine Learning Engineer,1.0,1,85903
+288,PhD,4,Luxor,Deep Learning;Java;TensorFlow;NLP;CSS,HTML;JavaScript;CSS,Software Developer,0.33,0,93918
+289,PhD,0,Luxor,Java;NLP;C++;JavaScript;PyTorch;Python,Machine Learning;NLP;SQL,Data Scientist,0.33,0,79555
+290,Bachelor,15,Luxor,Python;C++;Machine Learning;NLP;TensorFlow;JavaScript,Python;TensorFlow;Machine Learning,Machine Learning Engineer,1.0,1,141158
+291,Master,1,Giza,Deep Learning;Python;PyTorch;Machine Learning;CSS,CSS;Java;C++,Software Developer,0.33,0,66053
+292,Bachelor,14,Port Said,PyTorch;NLP;JavaScript;Java;SQL,Machine Learning;TensorFlow;Deep Learning,Machine Learning Engineer,0.0,0,134664
+293,Bachelor,11,Cairo,Java;Machine Learning;CSS;NLP,TensorFlow;PyTorch;Python,AI Engineer,0.0,0,126836
+294,Bachelor,6,Cairo,Python;HTML;PyTorch;Deep Learning,Machine Learning;PyTorch;NLP,AI Engineer,0.33,0,102119
+295,Bachelor,3,Cairo,Deep Learning;HTML;JavaScript;TensorFlow,NLP;TensorFlow;Machine Learning,AI Engineer,0.33,0,81622
+296,Bachelor,8,Cairo,Python;NLP;PyTorch;C++;SQL,PyTorch;Deep Learning;TensorFlow,AI Engineer,0.33,0,108091
+297,Bachelor,13,Luxor,TensorFlow;Python;HTML,PyTorch;Deep Learning;Python,AI Engineer,0.33,0,138164
+298,Bachelor,9,Port Said,NLP;Deep Learning;HTML;Machine Learning;SQL;JavaScript,Python;JavaScript;CSS,Software Developer,0.33,0,96555
+299,Bachelor,0,Luxor,CSS;TensorFlow;JavaScript;Machine Learning;PyTorch,Deep Learning;Python;SQL,Data Scientist,0.0,0,58623
+300,PhD,10,Port Said,TensorFlow;PyTorch;Machine Learning;SQL;C++,Python;TensorFlow;NLP,AI Engineer,0.33,0,142592
+301,Master,4,Cairo,Machine Learning;PyTorch;NLP;JavaScript;CSS;Deep Learning,NLP;SQL;Deep Learning,Data Scientist,0.67,1,90247
+302,Master,7,Luxor,TensorFlow;Deep Learning;CSS;Machine Learning;C++;NLP,Machine Learning;Python;NLP,AI Engineer,0.67,1,119345
+303,Bachelor,8,Luxor,TensorFlow;Deep Learning;Java;SQL,C++;HTML;CSS,Software Developer,0.0,0,90134
+304,Master,10,Port Said,JavaScript;Machine Learning;HTML;Java;PyTorch,NLP;Python;SQL,Data Scientist,0.0,0,118860
+305,Master,3,Giza,NLP;Python;C++;JavaScript;SQL,CSS;JavaScript;Python,Software Developer,0.67,1,75859
+306,Bachelor,5,Cairo,Deep Learning;TensorFlow;C++;PyTorch;Python;HTML,Deep Learning;Machine Learning;Python,Machine Learning Engineer,0.67,1,92312
+307,Bachelor,5,Giza,C++;JavaScript;NLP,TensorFlow;PyTorch;Machine Learning,Machine Learning Engineer,0.0,0,92981
+308,Bachelor,1,Luxor,PyTorch;Deep Learning;Python;TensorFlow,Python;PyTorch;Deep Learning,AI Engineer,1.0,0,74619
+309,Bachelor,11,Port Said,Java;NLP;CSS;Machine Learning,Python;PyTorch;Machine Learning,AI Engineer,0.33,0,124722
+310,PhD,14,Luxor,NLP;TensorFlow;C++;Deep Learning;HTML,C++;Python;CSS,Software Developer,0.33,0,144332
+311,Bachelor,7,Alexandria,PyTorch;Python;JavaScript;CSS,Python;Machine Learning;PyTorch,AI Engineer,0.67,1,103915
+312,Bachelor,8,Luxor,JavaScript;Python;Java,Python;NLP;SQL,Data Scientist,0.33,0,103002
+313,Bachelor,3,Luxor,HTML;C++;SQL;Python;Machine Learning,Python;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,78222
+314,Master,4,Giza,CSS;JavaScript;Java,Java;Python;CSS,Software Developer,0.67,1,86271
+315,Bachelor,6,Port Said,Deep Learning;NLP;Machine Learning;C++,NLP;Deep Learning;Python,Data Scientist,0.67,1,94422
+316,Master,15,Port Said,Python;PyTorch;Java;JavaScript,Machine Learning;Python;Deep Learning,Machine Learning Engineer,0.33,0,149240
+317,Bachelor,3,Port Said,HTML;Machine Learning;TensorFlow;PyTorch,Python;SQL;NLP,Data Scientist,0.0,0,79647
+318,Master,11,Port Said,PyTorch;Java;TensorFlow;Python;CSS;NLP,PyTorch;Deep Learning;Machine Learning,AI Engineer,0.33,0,138209
+319,Bachelor,14,Luxor,PyTorch;Java;Deep Learning;JavaScript;C++,Deep Learning;NLP;SQL,Data Scientist,0.33,0,125900
+320,Bachelor,12,Giza,TensorFlow;C++;Java;PyTorch;Python;NLP,Python;NLP;TensorFlow,AI Engineer,1.0,1,127258
+321,Master,14,Alexandria,Deep Learning;JavaScript;Python;C++;HTML;SQL,Deep Learning;NLP;Python,Data Scientist,0.67,1,143022
+322,Bachelor,10,Cairo,TensorFlow;Deep Learning;CSS;JavaScript,Deep Learning;SQL;NLP,Data Scientist,0.33,0,114214
+323,Bachelor,12,Alexandria,Python;TensorFlow;C++,TensorFlow;Machine Learning;Python,Machine Learning Engineer,0.67,1,128003
+324,Master,10,Alexandria,Machine Learning;Python;CSS;SQL;NLP,Machine Learning;Python;PyTorch,Machine Learning Engineer,0.67,1,127468
+325,Bachelor,14,Cairo,HTML;Deep Learning;Java;PyTorch;Python;CSS,TensorFlow;Python;Deep Learning,Machine Learning Engineer,0.67,1,135190
+326,Bachelor,2,Luxor,CSS;PyTorch;SQL;HTML;Deep Learning,Java;C++;CSS,Software Developer,0.33,0,61599
+327,Bachelor,15,Port Said,Java;PyTorch;SQL;Python;Deep Learning;C++,JavaScript;Python;HTML,Software Developer,0.33,0,128541
+328,Master,1,Alexandria,C++;NLP;Java;Machine Learning;SQL;JavaScript,Deep Learning;SQL;NLP,Data Scientist,0.67,0,78663
+329,Master,6,Port Said,NLP;Python;JavaScript,Deep Learning;NLP;Machine Learning,Data Scientist,0.33,0,104278
+330,Bachelor,4,Giza,CSS;Python;PyTorch,PyTorch;TensorFlow;Deep Learning,Machine Learning Engineer,0.33,0,86641
+331,Master,5,Luxor,PyTorch;C++;Java;NLP,JavaScript;CSS;Python,Software Developer,0.0,0,92724
+332,PhD,7,Port Said,Deep Learning;Machine Learning;HTML;C++;CSS;SQL,Python;JavaScript;HTML,Software Developer,0.33,0,113294
+333,Master,6,Alexandria,JavaScript;Machine Learning;Deep Learning;C++,TensorFlow;PyTorch;Machine Learning,AI Engineer,0.33,0,108400
+334,Master,11,Luxor,JavaScript;PyTorch;NLP;CSS;Machine Learning;TensorFlow,Python;PyTorch;TensorFlow,Machine Learning Engineer,0.67,1,126591
+335,Bachelor,1,Cairo,Machine Learning;C++;PyTorch;JavaScript,Python;Machine Learning;Deep Learning,AI Engineer,0.33,0,79280
+336,Master,1,Port Said,Java;JavaScript;CSS;SQL;NLP;PyTorch,Python;Java;CSS,Software Developer,0.67,0,72639
+337,Bachelor,10,Luxor,Python;Machine Learning;SQL,Machine Learning;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,113184
+338,Bachelor,6,Alexandria,HTML;C++;Java;TensorFlow;CSS,Deep Learning;Python;SQL,Data Scientist,0.0,0,91856
+339,Bachelor,8,Alexandria,JavaScript;Machine Learning;Python;Deep Learning,Machine Learning;Python;TensorFlow,Machine Learning Engineer,0.67,1,103028
+340,PhD,1,Luxor,HTML;JavaScript;CSS;Deep Learning;Java,JavaScript;C++;Python,Software Developer,0.33,0,78516
+341,Bachelor,5,Giza,Java;Deep Learning;SQL;JavaScript;TensorFlow;C++,HTML;C++;CSS,Software Developer,0.33,0,77443
+342,PhD,0,Cairo,HTML;SQL;JavaScript;TensorFlow;Python,CSS;Java;Python,Software Developer,0.33,0,71224
+343,Bachelor,9,Cairo,CSS;PyTorch;HTML;JavaScript;Python,Python;C++;HTML,Software Developer,0.67,1,98946
+344,Bachelor,3,Alexandria,TensorFlow;Java;SQL,PyTorch;NLP;Python,AI Engineer,0.0,0,88983
+345,Bachelor,13,Cairo,Python;HTML;Deep Learning;PyTorch,Python;NLP;Deep Learning,Data Scientist,0.67,1,121187
+346,Master,2,Luxor,Machine Learning;NLP;TensorFlow;HTML,TensorFlow;Deep Learning;Python,Machine Learning Engineer,0.33,0,88360
+347,Bachelor,3,Luxor,TensorFlow;JavaScript;Java,Python;Machine Learning;Deep Learning,Data Scientist,0.0,0,79785
+348,Bachelor,9,Luxor,Machine Learning;HTML;NLP,Python;TensorFlow;PyTorch,Machine Learning Engineer,0.0,0,108340
+349,Bachelor,4,Giza,TensorFlow;C++;Machine Learning;Deep Learning;Python,Python;PyTorch;TensorFlow,AI Engineer,0.67,1,92337
+350,Bachelor,12,Luxor,Machine Learning;SQL;Deep Learning,NLP;TensorFlow;Deep Learning,AI Engineer,0.33,0,129991
+351,Bachelor,7,Luxor,SQL;Java;C++;Python;HTML,Machine Learning;Python;SQL,Data Scientist,0.67,1,99389
+352,Bachelor,15,Port Said,C++;TensorFlow;SQL;Java;Machine Learning,SQL;Machine Learning;NLP,Data Scientist,0.67,1,130491
+353,Bachelor,9,Luxor,JavaScript;PyTorch;Deep Learning;TensorFlow,Machine Learning;Python;PyTorch,Machine Learning Engineer,0.33,0,110957
+354,Bachelor,7,Giza,Deep Learning;C++;PyTorch;HTML;CSS,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.67,1,100935
+355,Bachelor,5,Luxor,Machine Learning;C++;CSS,Machine Learning;Python;TensorFlow,AI Engineer,0.33,0,96582
+356,Master,0,Luxor,JavaScript;SQL;Python;CSS;Machine Learning;HTML,Machine Learning;Deep Learning;PyTorch,Machine Learning Engineer,0.33,0,70613
+357,Bachelor,9,Alexandria,CSS;PyTorch;Java;NLP;Deep Learning;Machine Learning,SQL;NLP;Machine Learning,Data Scientist,0.67,1,103771
+358,Bachelor,5,Alexandria,PyTorch;HTML;Deep Learning;Python,NLP;Deep Learning;Python,AI Engineer,0.67,1,90909
+359,Bachelor,7,Cairo,CSS;Deep Learning;NLP;HTML,Python;PyTorch;Deep Learning,Machine Learning Engineer,0.33,0,99794
+360,Bachelor,8,Port Said,NLP;TensorFlow;PyTorch;Deep Learning,NLP;Machine Learning;SQL,Data Scientist,0.33,0,98087
+361,PhD,7,Luxor,Deep Learning;PyTorch;HTML;JavaScript;Python;Machine Learning,NLP;Deep Learning;TensorFlow,AI Engineer,0.33,0,123310
+362,Bachelor,8,Alexandria,C++;PyTorch;Deep Learning;Java,NLP;Machine Learning;Python,AI Engineer,0.0,0,109716
+363,Bachelor,15,Giza,JavaScript;C++;NLP;Python,Python;Deep Learning;TensorFlow,AI Engineer,0.33,0,145727
+364,Bachelor,1,Luxor,Python;C++;Machine Learning;TensorFlow,PyTorch;Python;Deep Learning,Machine Learning Engineer,0.33,0,68213
+365,Master,9,Cairo,HTML;JavaScript;PyTorch;TensorFlow,Deep Learning;NLP;PyTorch,AI Engineer,0.33,0,121896
+366,Master,5,Luxor,C++;TensorFlow;Deep Learning;HTML;Java,NLP;PyTorch;Deep Learning,AI Engineer,0.33,0,104396
+367,Bachelor,6,Luxor,C++;JavaScript;Java;PyTorch;HTML;Machine Learning,NLP;Python;Deep Learning,Data Scientist,0.0,0,86211
+368,Bachelor,4,Luxor,TensorFlow;PyTorch;NLP,Deep Learning;Python;PyTorch,Machine Learning Engineer,0.33,0,81918
+369,Bachelor,7,Giza,Deep Learning;JavaScript;TensorFlow;Java;NLP;CSS,CSS;C++;Java,Software Developer,0.67,1,87292
+370,Bachelor,13,Port Said,Python;PyTorch;JavaScript;CSS,NLP;Python;SQL,Data Scientist,0.33,0,126065
+371,Master,10,Giza,Java;C++;NLP;Machine Learning;CSS,PyTorch;Deep Learning;TensorFlow,Machine Learning Engineer,0.0,0,121136
+372,Bachelor,12,Alexandria,CSS;PyTorch;HTML;C++;Deep Learning;Machine Learning,Deep Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.67,1,121326
+373,Bachelor,12,Alexandria,PyTorch;SQL;HTML,Python;Deep Learning;NLP,AI Engineer,0.0,0,128904
+374,Master,1,Alexandria,TensorFlow;Python;Java;C++;HTML;Machine Learning,Python;PyTorch;Machine Learning,Machine Learning Engineer,0.67,0,77335
+375,Bachelor,2,Luxor,PyTorch;NLP;TensorFlow,Python;JavaScript;Java,Software Developer,0.0,0,67679
+376,PhD,5,Giza,Python;SQL;CSS;Machine Learning;TensorFlow;PyTorch,TensorFlow;Deep Learning;Python,AI Engineer,0.67,1,111145
+377,Bachelor,0,Alexandria,Machine Learning;NLP;Deep Learning,TensorFlow;Machine Learning;Deep Learning,Machine Learning Engineer,0.67,0,65543
+378,Bachelor,2,Cairo,PyTorch;CSS;JavaScript;Deep Learning;TensorFlow,C++;JavaScript;Python,Software Developer,0.33,0,60365
+379,Bachelor,12,Luxor,Machine Learning;C++;NLP,NLP;Python;Machine Learning,Data Scientist,0.67,1,122890
+380,Bachelor,3,Luxor,CSS;JavaScript;Machine Learning;HTML;NLP,Machine Learning;Deep Learning;PyTorch,Machine Learning Engineer,0.33,0,78381
+381,Master,0,Giza,Machine Learning;Java;NLP,PyTorch;Deep Learning;Machine Learning,AI Engineer,0.33,0,83204
+382,Bachelor,11,Luxor,PyTorch;Machine Learning;SQL,Java;CSS;HTML,Software Developer,0.0,0,113432
+383,Bachelor,5,Giza,Deep Learning;SQL;JavaScript;Machine Learning;C++,NLP;Deep Learning;TensorFlow,AI Engineer,0.33,0,98116
+384,Master,8,Alexandria,SQL;PyTorch;JavaScript;Deep Learning,Python;PyTorch;TensorFlow,AI Engineer,0.33,0,124135
+385,Master,15,Luxor,CSS;Python;HTML,JavaScript;HTML;CSS,Software Developer,0.67,1,143019
+386,Master,8,Giza,CSS;Machine Learning;NLP;SQL,Python;TensorFlow;NLP,AI Engineer,0.33,0,117425
+387,Bachelor,1,Luxor,NLP;TensorFlow;C++;HTML;Java,Deep Learning;Python;TensorFlow,Machine Learning Engineer,0.33,0,69493
+388,Master,12,Luxor,Deep Learning;PyTorch;JavaScript,C++;JavaScript;HTML,Software Developer,0.33,0,124016
+389,Bachelor,15,Luxor,Deep Learning;C++;HTML;NLP;SQL,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.33,0,137894
+390,Bachelor,5,Luxor,JavaScript;TensorFlow;SQL;Java,C++;JavaScript;CSS,Software Developer,0.33,0,84551
+391,Master,6,Alexandria,HTML;Python;C++;NLP,Machine Learning;Deep Learning;PyTorch,Machine Learning Engineer,0.0,0,106813
+392,Bachelor,1,Giza,PyTorch;C++;Python,Machine Learning;NLP;Python,AI Engineer,0.33,0,70349
+393,Bachelor,10,Port Said,Deep Learning;CSS;TensorFlow;Machine Learning;PyTorch,Deep Learning;Python;SQL,Data Scientist,0.33,0,110636
+394,Master,6,Luxor,Machine Learning;Deep Learning;TensorFlow;CSS,TensorFlow;Python;Machine Learning,Machine Learning Engineer,0.67,1,109626
+395,Master,14,Alexandria,TensorFlow;Deep Learning;NLP;JavaScript,Python;SQL;Deep Learning,Data Scientist,0.33,0,143261
+396,Bachelor,10,Port Said,JavaScript;TensorFlow;NLP;Machine Learning;HTML,Python;JavaScript;CSS,Software Developer,0.33,0,100402
+397,Bachelor,5,Cairo,PyTorch;SQL;Machine Learning;Java,Deep Learning;NLP;Python,AI Engineer,0.0,0,98105
+398,Bachelor,15,Luxor,Python;NLP;CSS,Python;Machine Learning;Deep Learning,Data Scientist,0.33,0,135820
+399,Bachelor,12,Port Said,SQL;Machine Learning;HTML;C++,TensorFlow;Deep Learning;Python,AI Engineer,0.0,0,134275
+400,Bachelor,11,Port Said,HTML;CSS;Machine Learning;TensorFlow;PyTorch;Java,TensorFlow;PyTorch;NLP,AI Engineer,0.67,1,123408
+401,Master,13,Luxor,Deep Learning;HTML;CSS;SQL;Java,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.33,0,140799
+402,Bachelor,9,Cairo,CSS;C++;Deep Learning,CSS;JavaScript;Java,Software Developer,0.33,0,102730
+403,Master,15,Giza,Python;NLP;Machine Learning;SQL;PyTorch,C++;CSS;JavaScript,Software Developer,0.0,0,142610
+404,Bachelor,5,Giza,SQL;Machine Learning;Java;NLP;PyTorch;TensorFlow,HTML;JavaScript;Python,Software Developer,0.0,0,80919
+405,Bachelor,2,Alexandria,Machine Learning;Java;HTML;JavaScript,Python;JavaScript;CSS,Software Developer,0.33,0,66893
+406,Bachelor,0,Alexandria,CSS;Python;C++,Machine Learning;NLP;Python,Data Scientist,0.33,0,63259
+407,Master,0,Alexandria,C++;Python;HTML,Machine Learning;NLP;PyTorch,AI Engineer,0.0,0,79627
+408,Master,15,Port Said,PyTorch;Python;Deep Learning;Java;C++;TensorFlow,CSS;Java;Python,Software Developer,0.67,1,138926
+409,Bachelor,8,Giza,Java;SQL;NLP,Machine Learning;Python;TensorFlow,Machine Learning Engineer,0.0,0,107143
+410,Bachelor,3,Luxor,HTML;NLP;Machine Learning;Deep Learning,PyTorch;Python;TensorFlow,AI Engineer,0.0,0,88347
+411,Bachelor,9,Alexandria,Python;TensorFlow;SQL;Java;JavaScript,Deep Learning;Python;TensorFlow,Machine Learning Engineer,0.67,1,109994
+412,Master,3,Giza,Python;PyTorch;JavaScript;HTML,Machine Learning;Python;Deep Learning,AI Engineer,0.33,0,97783
+413,Bachelor,2,Luxor,TensorFlow;Python;PyTorch;Deep Learning;C++,SQL;Deep Learning;Python,Data Scientist,0.67,0,69001
+414,Bachelor,11,Giza,Python;NLP;Deep Learning;C++,Java;CSS;JavaScript,Software Developer,0.0,0,107247
+415,Bachelor,15,Alexandria,CSS;Deep Learning;TensorFlow;HTML,JavaScript;Python;C++,Software Developer,0.0,0,129904
+416,Bachelor,4,Giza,Machine Learning;CSS;Deep Learning;HTML;Python,Machine Learning;Python;Deep Learning,Machine Learning Engineer,1.0,1,80620
+417,Master,7,Port Said,TensorFlow;CSS;NLP,TensorFlow;NLP;Deep Learning,AI Engineer,0.67,1,117900
+418,Master,10,Giza,Java;PyTorch;CSS;TensorFlow;Python,Deep Learning;Python;PyTorch,AI Engineer,0.67,1,132124
+419,Bachelor,6,Cairo,JavaScript;TensorFlow;NLP,PyTorch;Deep Learning;Python,Machine Learning Engineer,0.0,0,99599
+420,Bachelor,2,Cairo,TensorFlow;HTML;Java;PyTorch,Machine Learning;Deep Learning;SQL,Data Scientist,0.0,0,74303
+421,Master,1,Luxor,CSS;Python;Java;Machine Learning;JavaScript,TensorFlow;Python;PyTorch,AI Engineer,0.33,0,84211
+422,Master,12,Alexandria,CSS;TensorFlow;SQL;C++,Python;Deep Learning;TensorFlow,Machine Learning Engineer,0.33,0,131713
+423,Bachelor,13,Cairo,C++;CSS;NLP;TensorFlow,Python;C++;CSS,Software Developer,0.67,1,118531
+424,PhD,10,Luxor,Deep Learning;NLP;TensorFlow;PyTorch;SQL,NLP;TensorFlow;Machine Learning,AI Engineer,0.67,1,142097
+425,Bachelor,14,Giza,Python;PyTorch;Machine Learning;TensorFlow;C++;HTML,Machine Learning;SQL;Python,Data Scientist,0.67,1,131806
+426,Master,0,Port Said,Java;Python;HTML;Deep Learning,Deep Learning;Machine Learning;TensorFlow,AI Engineer,0.33,0,83423
+427,Master,7,Alexandria,Machine Learning;Java;JavaScript;NLP;SQL,Machine Learning;Deep Learning;Python,Data Scientist,0.33,0,108995
+428,Bachelor,3,Luxor,Python;JavaScript;NLP;Java;PyTorch,HTML;CSS;JavaScript,Software Developer,0.33,0,67084
+429,PhD,3,Alexandria,TensorFlow;PyTorch;NLP,Machine Learning;Python;SQL,Data Scientist,0.0,0,90996
+430,Bachelor,4,Port Said,C++;Python;NLP;HTML,SQL;Deep Learning;NLP,Data Scientist,0.33,0,77157
+431,Master,4,Alexandria,Java;HTML;JavaScript;Python;NLP,Java;CSS;JavaScript,Software Developer,0.67,1,82371
+432,Master,4,Alexandria,CSS;SQL;HTML;NLP;TensorFlow;Machine Learning,Deep Learning;Python;Machine Learning,AI Engineer,0.33,0,96561
+433,Master,10,Luxor,Java;TensorFlow;NLP,Deep Learning;PyTorch;Python,Machine Learning Engineer,0.0,0,128902
+434,Bachelor,0,Port Said,Deep Learning;JavaScript;HTML;C++,Python;Machine Learning;PyTorch,Machine Learning Engineer,0.0,0,69546
+435,Master,4,Cairo,PyTorch;Python;SQL,Machine Learning;Python;PyTorch,AI Engineer,0.67,1,96224
+436,Master,3,Port Said,HTML;Python;Deep Learning;SQL;CSS;Java,JavaScript;CSS;C++,Software Developer,0.33,0,76221
+437,Master,0,Giza,Machine Learning;C++;Python,C++;JavaScript;HTML,Software Developer,0.33,0,64401
+438,Bachelor,0,Cairo,TensorFlow;Machine Learning;Deep Learning;Java;Python;C++,Machine Learning;TensorFlow;Deep Learning,Machine Learning Engineer,1.0,0,64162
+439,PhD,3,Port Said,JavaScript;CSS;Java;C++;SQL;Machine Learning,PyTorch;Python;TensorFlow,Machine Learning Engineer,0.0,0,104889
+440,Bachelor,9,Port Said,NLP;C++;Python;Deep Learning;CSS;TensorFlow,C++;JavaScript;HTML,Software Developer,0.33,0,101939
+441,Master,8,Giza,CSS;Machine Learning;SQL,Machine Learning;NLP;Deep Learning,AI Engineer,0.33,0,118923
+442,Bachelor,12,Luxor,NLP;SQL;JavaScript;C++,Deep Learning;PyTorch;Machine Learning,Machine Learning Engineer,0.0,0,125080
+443,Bachelor,6,Alexandria,C++;Machine Learning;CSS;PyTorch,Machine Learning;PyTorch;TensorFlow,Machine Learning Engineer,0.67,1,90314
+444,Bachelor,3,Alexandria,C++;Python;Deep Learning;NLP;CSS,CSS;HTML;C++,Software Developer,0.67,1,69828
+445,Master,3,Alexandria,Python;JavaScript;TensorFlow;Machine Learning,TensorFlow;Deep Learning;PyTorch,AI Engineer,0.33,0,95723
+446,Master,11,Cairo,C++;CSS;JavaScript;HTML;Deep Learning;Java,TensorFlow;PyTorch;Python,Machine Learning Engineer,0.0,0,133065
+447,Bachelor,7,Cairo,Python;Machine Learning;NLP;SQL;CSS;JavaScript,Python;Deep Learning;NLP,AI Engineer,0.67,1,108949
+448,Master,15,Port Said,SQL;NLP;TensorFlow;Python;JavaScript;Deep Learning,CSS;JavaScript;Java,Software Developer,0.33,0,137409
+449,Bachelor,14,Giza,SQL;CSS;TensorFlow,Python;TensorFlow;Deep Learning,Machine Learning Engineer,0.33,0,134769
+450,Master,1,Alexandria,HTML;NLP;Machine Learning;JavaScript;PyTorch,NLP;Machine Learning;Python,AI Engineer,0.67,0,89861
+451,Master,4,Giza,Java;CSS;PyTorch;C++;TensorFlow;SQL,Deep Learning;TensorFlow;Python,Machine Learning Engineer,0.33,0,98675
+452,Bachelor,6,Giza,Machine Learning;Deep Learning;C++,Python;NLP;Machine Learning,Data Scientist,0.33,0,89711
+453,Bachelor,11,Cairo,PyTorch;CSS;JavaScript;C++;NLP;Machine Learning,Python;Machine Learning;TensorFlow,Machine Learning Engineer,0.33,0,123900
+454,Bachelor,4,Alexandria,C++;Python;NLP;Machine Learning,Python;CSS;HTML,Software Developer,0.33,0,78384
+455,Master,3,Alexandria,Python;JavaScript;Machine Learning;PyTorch,TensorFlow;PyTorch;Deep Learning,Machine Learning Engineer,0.33,0,90999
+456,Master,15,Alexandria,JavaScript;TensorFlow;HTML;PyTorch,TensorFlow;Python;Deep Learning,Machine Learning Engineer,0.33,0,148595
+457,Master,7,Luxor,JavaScript;TensorFlow;CSS;SQL;Python,Deep Learning;Python;Machine Learning,AI Engineer,0.33,0,110213
+458,Bachelor,1,Luxor,Deep Learning;Java;Python;TensorFlow;NLP,Deep Learning;Machine Learning;PyTorch,AI Engineer,0.33,0,79724
+459,PhD,11,Cairo,Machine Learning;Deep Learning;TensorFlow,Python;TensorFlow;Deep Learning,Machine Learning Engineer,0.67,1,141728
+460,Bachelor,15,Alexandria,PyTorch;Machine Learning;Deep Learning,PyTorch;Machine Learning;Deep Learning,Machine Learning Engineer,1.0,1,136767
+461,Bachelor,1,Cairo,HTML;JavaScript;Machine Learning,PyTorch;Deep Learning;Machine Learning,Machine Learning Engineer,0.33,0,66419
+462,Bachelor,11,Alexandria,CSS;TensorFlow;HTML;JavaScript;C++;Machine Learning,PyTorch;Machine Learning;Deep Learning,AI Engineer,0.33,0,128409
+463,Bachelor,0,Giza,PyTorch;SQL;JavaScript,TensorFlow;Python;Machine Learning,Machine Learning Engineer,0.0,0,63289
+464,Bachelor,6,Cairo,PyTorch;Machine Learning;TensorFlow;Java,HTML;JavaScript;Python,Software Developer,0.0,0,84108
+465,Master,3,Port Said,NLP;JavaScript;TensorFlow;Python;C++,Machine Learning;PyTorch;NLP,AI Engineer,0.33,0,90561
+466,PhD,1,Alexandria,C++;TensorFlow;HTML;CSS;Deep Learning;SQL,Python;Deep Learning;TensorFlow,Machine Learning Engineer,0.67,0,92249
+467,Master,10,Luxor,SQL;JavaScript;Deep Learning,Java;C++;HTML,Software Developer,0.0,0,114658
+468,Master,10,Giza,JavaScript;PyTorch;NLP;C++,Machine Learning;NLP;Deep Learning,Data Scientist,0.33,0,119233
+469,Bachelor,13,Cairo,SQL;Deep Learning;HTML;Machine Learning;PyTorch;CSS,C++;Java;HTML,Software Developer,0.33,0,123228
+470,Master,6,Cairo,CSS;Python;HTML;PyTorch;C++;Java,CSS;JavaScript;HTML,Software Developer,0.67,1,92341
+471,Master,4,Cairo,SQL;Python;HTML;NLP,Python;Machine Learning;NLP,Data Scientist,0.67,1,93187
+472,Master,2,Port Said,Python;Java;CSS;Machine Learning;PyTorch;JavaScript,Python;C++;HTML,Software Developer,0.33,0,72191
+473,Bachelor,9,Port Said,HTML;TensorFlow;Java;Machine Learning;C++,Machine Learning;Python;TensorFlow,AI Engineer,0.67,1,116698
+474,PhD,3,Alexandria,CSS;Deep Learning;Machine Learning;C++;JavaScript,Deep Learning;Python;Machine Learning,AI Engineer,0.67,1,104460
+475,Master,10,Luxor,Python;C++;PyTorch;HTML;JavaScript;CSS,Python;PyTorch;Machine Learning,Machine Learning Engineer,0.67,1,128704
+476,Bachelor,14,Luxor,Machine Learning;Deep Learning;SQL;CSS;Java,PyTorch;Machine Learning;Python,Machine Learning Engineer,0.33,0,138571
+477,Master,14,Cairo,Machine Learning;TensorFlow;HTML;JavaScript;SQL;Java,TensorFlow;Machine Learning;PyTorch,AI Engineer,0.67,1,152574
+478,Bachelor,10,Port Said,HTML;Python;Java;PyTorch;JavaScript;C++,TensorFlow;Machine Learning;PyTorch,Machine Learning Engineer,0.33,0,115265
+479,Master,4,Luxor,NLP;Java;Deep Learning,Machine Learning;Deep Learning;SQL,Data Scientist,0.33,0,90725
+480,Bachelor,7,Luxor,CSS;C++;HTML;NLP,Machine Learning;SQL;NLP,Data Scientist,0.33,0,97969
+481,Bachelor,13,Luxor,CSS;SQL;C++;Java;HTML,NLP;Deep Learning;SQL,Data Scientist,0.33,0,126134
+482,Bachelor,14,Alexandria,NLP;Java;JavaScript;TensorFlow;PyTorch,CSS;Java;JavaScript,Software Developer,0.67,1,128657
+483,Bachelor,4,Luxor,C++;TensorFlow;PyTorch,PyTorch;Deep Learning;Machine Learning,Machine Learning Engineer,0.33,0,85100
+484,Master,14,Alexandria,TensorFlow;Deep Learning;Machine Learning;JavaScript,Deep Learning;Python;PyTorch,Machine Learning Engineer,0.33,0,144362
+485,Bachelor,12,Alexandria,Python;Deep Learning;CSS;PyTorch;JavaScript,Java;HTML;Python,Software Developer,0.33,0,112270
+486,Bachelor,12,Port Said,NLP;PyTorch;TensorFlow;CSS;SQL;Deep Learning,NLP;Deep Learning;TensorFlow,AI Engineer,1.0,1,128623
+487,Bachelor,11,Giza,Machine Learning;TensorFlow;C++;JavaScript,Python;NLP;Deep Learning,Data Scientist,0.0,0,117567
+488,Master,15,Giza,Java;C++;NLP;HTML,PyTorch;Machine Learning;TensorFlow,Machine Learning Engineer,0.0,0,153842
+489,Bachelor,14,Giza,SQL;C++;NLP;Python;HTML,PyTorch;TensorFlow;Machine Learning,AI Engineer,0.0,0,144126
+490,Bachelor,11,Cairo,JavaScript;HTML;Deep Learning,NLP;Deep Learning;Machine Learning,Data Scientist,0.33,0,117870
+491,Bachelor,8,Giza,CSS;JavaScript;Java,NLP;Python;Machine Learning,AI Engineer,0.0,0,114835
+492,Master,10,Luxor,HTML;PyTorch;CSS,PyTorch;Deep Learning;Machine Learning,Machine Learning Engineer,0.33,0,126406
+493,Bachelor,9,Port Said,Python;JavaScript;Machine Learning;TensorFlow,Deep Learning;SQL;Machine Learning,Data Scientist,0.33,0,100515
+494,Bachelor,9,Luxor,Machine Learning;HTML;Java,TensorFlow;Python;Machine Learning,AI Engineer,0.33,0,117826
+495,Bachelor,8,Port Said,Python;Java;JavaScript;C++;CSS,Deep Learning;Machine Learning;TensorFlow,Machine Learning Engineer,0.0,0,104756
+496,Master,7,Giza,CSS;Python;Deep Learning;Java,TensorFlow;Deep Learning;NLP,AI Engineer,0.33,0,111755
+497,Master,13,Giza,TensorFlow;HTML;C++;SQL,Java;HTML;Python,Software Developer,0.33,0,134618
+498,Bachelor,14,Giza,Machine Learning;HTML;CSS;SQL;NLP;Deep Learning,TensorFlow;Deep Learning;Python,Machine Learning Engineer,0.33,0,136085
+499,Bachelor,13,Cairo,HTML;NLP;Deep Learning;CSS;Python,NLP;Machine Learning;SQL,Data Scientist,0.33,0,120495
+500,Master,8,Port Said,Machine Learning;Java;PyTorch;NLP;HTML,PyTorch;TensorFlow;Deep Learning,AI Engineer,0.33,0,120274
