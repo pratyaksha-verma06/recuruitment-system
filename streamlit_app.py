@@ -162,8 +162,11 @@ elif choice == "Job Recommendation":
             st.warning("Please enter at least one skill.")
 
 elif choice == "Role Clustering":
-    st.title("🤝 Market Role Groupings")
+    st.title("📊 Market Role Groupings")
     st.markdown("This view shows how job titles are grouped by the AI based on skill similarities.")
     
     cluster_view = df.groupby('cluster')['job_title'].unique().reset_index()
+    
+    cluster_view['job_title'] = cluster_view['job_title'].apply(lambda x: list(x))
+    
     st.dataframe(cluster_view, use_container_width=True)
